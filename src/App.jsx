@@ -1,8 +1,10 @@
+import FollowMouse from "./components/FollowMouse"
+
 function App() {
 
   return (
     <>
-      <h1>Hola mundo</h1>
+      <FollowMouse/>
     </>
   )
 }
